@@ -1,0 +1,6 @@
+interface:
+  display_name: "design_for_CPH"
+  short_description: "CPH branding with UI/UX Pro Max, Frontend Design, Taste"
+  default_prompt: "Use $design-for-cph to combine UI/UX Pro Max, Frontend Design, and applicable Taste guidance for this Chaiyaphum Hospital design, preserving its logo, purple-led colors, and subtle logo watermark."
+policy:
+  allow_implicit_invocation: true
